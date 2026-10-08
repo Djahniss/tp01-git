@@ -46,4 +46,18 @@ l'auteur est Djahniss Lemoine associé à l'email loldjah94@gmail.com
 la date est le Jeudi 8 octobre 9h22 UTC+2
 le message est "Création du README"
 
+## Question 3.7
+1 git status décrit le README.md comme un fichier pas a jour et avec une différence par rapport au repo
 
+2 diff --git a/README.md b/README.md
+index ba53a0b..aaab789 100755
+--- a/README.md
++++ b/README.md
+@@ -3,3 +3,5 @@
+ Dépôt réalisé par Djahniss Lemoine, 1CIEL-IR.
+ 
+ Ce dépôt contient mon compte rendu du TP01.
++
++Année scolaire 2026-2027.
+
+git diff montre la différence entre le local et le repo, le plus signifiant un ajout
