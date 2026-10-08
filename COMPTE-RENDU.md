@@ -86,3 +86,8 @@ test.txt ce fait désindexer et ce retrouve dans la zone de préparation, il n'e
 ##Question 4.4
 les fichiers ont disparu, *.log signifie tout fichier incluant .log
 le fichier gitignore, et oui
+
+##Question 4.5
+il contenait seulement la phrase copier de base, depuis il y a eu l'ajout de l'année scolaire
+
+#Question 5.2
