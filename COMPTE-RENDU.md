@@ -1,4 +1,4 @@
-# Compte rendu — TP01 Git
+# Compte rendu — TP01 Git Lemoine Djahniss
 
 ## Question 0
 
