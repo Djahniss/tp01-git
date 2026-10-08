@@ -74,4 +74,15 @@ b27da50 Ajout de l'année scolaire dans le README
 ils n'ont pas de rapport entre eux, autant pour le changelog que pour l'apparence dans oneline
 
 #Question 4.1
+git show montre les informations concernant le commit concerné comme le contenu et le contenu ajouté/supprimé
+ainsi que des information comme l'heure/la date/l'auteur et le changelog du commit
 
+#Question 4.2
+git restore a permis de recupérer le fichier depuis le git, non car il ne serrais pas sauver sur le git
+
+#Question 4.3
+test.txt ce fait désindexer et ce retrouve dans la zone de préparation, il n'est pas supprimer juste pas dans l'éventuel commit
+
+##Question 4.4
+les fichiers ont disparu, *.log signifie tout fichier incluant .log
+le fichier gitignore, et oui
