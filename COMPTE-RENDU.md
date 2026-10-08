@@ -61,3 +61,17 @@ index ba53a0b..aaab789 100755
 +Année scolaire 2026-2027.
 
 git diff montre la différence entre le local et le repo, le plus signifiant un ajout
+
+## Question 3.8
+8b6bf01 (HEAD -> main) Ajout de la mention de l'auteur du CR
+30f3f5c Création de l'aide-mémoire Git
+8fbefe0 Réponse à la question 3.7
+b27da50 Ajout de l'année scolaire dans le README
+6c264d7 Ajout du compte rendu (question 0à3.5)
+701d51a Création du README
+
+2 il est préférable de faire plusieurs commits pour plusieurs changement si
+ils n'ont pas de rapport entre eux, autant pour le changelog que pour l'apparence dans oneline
+
+#Question 4.1
+
