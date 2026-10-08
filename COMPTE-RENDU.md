@@ -91,3 +91,29 @@ le fichier gitignore, et oui
 il contenait seulement la phrase copier de base, depuis il y a eu l'ajout de l'année scolaire
 
 #Question 5.2
+1 id_ed25519 et id_25519.pub la .Pub est la clé publique
+2
+-rwx------ 1 dlemoine 1cielir-26-27  464 oct.   8 10:27 id_ed25519
+-rwx------ 1 dlemoine 1cielir-26-27  100 oct.   8 10:27 id_ed25519.pub
+
+#Question 5.4
+Hi Djahniss! You've successfully authenticated, but GitHub does not provide shell access.
+la clé publique est seulement un medium de communication elle n'autorise en rien sans la privé
+
+#Question 6.3
+	dlemoine@d116-03:~/tp-git/tp01-git$ git remote -v
+origin	git@github.com:Djahniss/tp01-git.git (fetch)
+origin	git@github.com:Djahniss/tp01-git.git (push)
+	dlemoine@d116-03:~/tp-git/tp01-git$ git push -u origin main
+Énumération des objets: 30, fait.
+Décompte des objets: 100% (30/30), fait.
+Compression par delta en utilisant jusqu'à 12 fils d'exécution
+Compression des objets: 100% (29/29), fait.
+Écriture des objets: 100% (30/30), 4.44 Kio | 1.11 Mio/s, fait.
+Total 30 (delta 10), réutilisés 0 (delta 0), réutilisés du pack 0
+remote: Resolving deltas: 100% (10/10), done.
+To github.com:Djahniss/tp01-git.git
+ * [new branch]      main -> main
+la branche 'main' est paramétrée pour suivre 'origin/main'.
+
+2 oui l'historique est le meme, tout les fichiers indexer sont présent, les fichier du gitignore ne sont pas présent car ignorer
